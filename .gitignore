@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data and Output
+output/
+data/
+
+# Temporary files
+*.wav
